@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Nama repository GitHub Anda
-REPO="personal-cdn"
+REPO="public-cdn"
 USERNAME="repixelhouse"
 
 # Commit message default
